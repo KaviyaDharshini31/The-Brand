@@ -1,4 +1,4 @@
-# the_brand
+# The Brand
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,7 +21,7 @@
     </header>
 
     <section id="home" class="hero-section">
-        <h2>Stylish Printed Shirts for Boys & Girls</h2>
+        <h2>Values Your Pride</h2>
         <p>Explore our exclusive collection of premium quality printed shirts.</p>
     </section>
 
