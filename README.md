@@ -1,9 +1,11 @@
 
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THE BRAND - Printed Shirts</title>
+    <title>THE BRAND - Shopping Website</title>
     <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
 </head>
 <body>
     <header>
@@ -48,20 +50,25 @@
         <div class="products-grid">
             <div class="product-card">
                 <img src="floralshirt.jpg" alt="Girls Printed Shirt 1">
-
                 <h3>Floral Pink Shirt</h3>
                 <p>$28.00</p>
                 <button>Add to Cart</button>
             </div>
             <div class="product-card">
                 <img src="yellowshirt.jpg" alt="Girls Printed Shirt 2">
-                
-<h3>Yellow Sunshine Shirt</h3>
+                <h3>Yellow Sunshine Shirt</h3>
                 <p>$27.00</p>
                 <button>Add to Cart</button>
             </div>
         </div>
     </section>
+
+    <footer id="contact">
+        <p>Contact us at: support@thebrand.com</p>
+        <p>© 2024 THE BRAND. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
     <footer id="contact">
         <p>Contact us at: support@thebrand.com</p>
